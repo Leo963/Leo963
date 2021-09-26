@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leo963 or usually known as Lukas Kaufmann
-- 👀 I am focusing a lot on networking and cyber security with side interest in IT as a whole and game 
-- 🌱 I’m currently learning unity and game development, while doing CSE program at TU Delft
-
+- 👀 I am focusing a lot on networking and cyber security, whilst not excluding anything in particular 
+- 🌱 I’m currently widening my horizons in the area of infrastructure and cloud administration
+- 🎓 At the moment I study Software engineering and technology at the Czech Technical University, Faculty of Electrical Engineering
 - 📫 If you want to reach me
 
               - Email: travianluk@gmail.com

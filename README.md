@@ -1,3 +1,7 @@
+### Hi there
+
+[![wakatime](https://wakatime.com/badge/user/a16a7018-0463-41d6-8a0a-ff3dfb3aeb82.svg)](https://wakatime.com/@a16a7018-0463-41d6-8a0a-ff3dfb3aeb82)
+
 - 👋 Hi, I’m @Leo963 or usually known as Lukas Kaufmann
 - 👀 I am focusing a lot on networking and cyber security, whilst not excluding anything in particular 
 - 🌱 I’m currently widening my horizons in the area of infrastructure and cloud administration

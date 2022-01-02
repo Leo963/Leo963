@@ -6,7 +6,6 @@
 
               - Email: travianluk@gmail.com
               - LinkedIn: https://www.linkedin.com/in/lukas-kaufmann-89b79913a/
-[![wakatime](https://wakatime.com/badge/user/a16a7018-0463-41d6-8a0a-ff3dfb3aeb82.svg)](https://wakatime.com/@a16a7018-0463-41d6-8a0a-ff3dfb3aeb82)
 <!---
 Leo963/Leo963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
